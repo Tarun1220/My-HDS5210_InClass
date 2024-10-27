@@ -1,0 +1,2 @@
+Invalid DYSPNEA calculation. Always returns 0.
+Creates errors in your output data.
